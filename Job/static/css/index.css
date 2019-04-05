@@ -1,0 +1,20 @@
+body{
+  background-color: #303133;
+}
+
+#di{
+  color:blue;
+  background-color: white;
+  border: 1px solid white;
+  margin-left: 60px;
+
+
+}
+img{
+  width: 300px;
+  height: 200px;
+  margin-bottom: 15px;
+}
+.container1{
+  margin-top: 40%;
+}
